@@ -28,6 +28,7 @@ MONTHS = 'age_months'
 AGE_GT ='age_GT'
 SAMPLE_ID = 'sampleID'
 SPOT_UID = 'spot_UID'
+SLIDE_ID = 'slide_ID'
 
 # The merged data file in Parquet format.
 
@@ -40,8 +41,12 @@ def read_full(path=st_full):
 def enrich(full):
     # Add age column (young, old)
     full[AGE] = np.where(full[MONTHS] < 10, 'young', 'old')
+    
     # Add combined column age_GT.
     full[AGE_GT] = full[[AGE, GT]].apply(lambda x: '_'.join(x), axis=1)
+    
+    # parse slide ID
+    full['slide_ID'] = full[SPOT_UID].apply(lambda x: str(x).split('__')[0])
     
     return full
 
