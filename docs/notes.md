@@ -1,8 +1,8 @@
 # Observations
 
-* strong batch effect present
+## strong batch effect
 * may detrimentally influence feature selection, e.g. by statistical leverage
-* try statistical leverage per slide -> any overlapping genes?
+* cause: logcpm -> z-score
 
 # Considerations
 * Compensate batch effect by mean-centering per batch?

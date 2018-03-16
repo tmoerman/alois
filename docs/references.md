@@ -1,6 +1,10 @@
 # Literature list
 * [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction (Arxiv)](https://arxiv.org/abs/1802.03426)
 
+# Blog / Tuts
+* [What the FPKM](https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/)
+* [logcpm slide 15](http://www.math.univ-toulouse.fr/~agarivie/Telecom/slidesMAS/MAS2014_Jeanmougin.pdf)
+
 # Code repositories
 * [CUR/CX decomposition on MSI dataset](https://github.com/chocjy/CUR-CX-MSI)
 * [KeplerMapper: visualization of high-dimensional data and 3-D point cloud data](https://github.com/MLWave/kepler-mapper)
