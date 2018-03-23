@@ -4,6 +4,9 @@
 # Blog / Tuts
 * [What the FPKM](https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/)
 * [logcpm slide 15](http://www.math.univ-toulouse.fr/~agarivie/Telecom/slidesMAS/MAS2014_Jeanmougin.pdf)
+* [Multioutput RF](http://astrohackweek.org/blog/multi-output-random-forests.html)
+* [MultiTask Lasso](http://scikit-learn.org/stable/auto_examples/linear_model/plot_multi_task_lasso_support.html#sphx-glr-auto-examples-linear-model-plot-multi-task-lasso-support-py)
+* [Fast_Multi Booster](https://github.com/marugari/Notebooks/blob/master/LightGBM-Fast_Multi.ipynb)
 
 # Code repositories
 * [CUR/CX decomposition on MSI dataset](https://github.com/chocjy/CUR-CX-MSI)

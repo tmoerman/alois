@@ -12,4 +12,12 @@
     * for every KI batch: make a variable YEN_batch1, YEN_batch2 
     * NaN for all other batches for this variable
     * 0 for all WT for all of the synthetic variables
+* binarize the outputs to turn it into a multilabel classification problem
+    * needs a cutoff value to binarize output
+    
+    ```
+    KI      WT      Young       Old     PlaqueClose
+    
+    
+    ```
     
