@@ -1,3 +1,12 @@
+# Objectives
+
+[MF]
+> waar we naar toe willen is het volgende:
+> - presenteren van dit als een atlas van de early onset van AD
+> - bescrhijven van globale veranderingen - welke gelijk moeten zijn aan al gekende modellen
+> - kunnen we regiospecifieke veranderingen vinden??
+> - kunnen we plaque-gerelateerde veranderingen binden??
+
 # Observations
 
 ## strong batch effect
@@ -20,4 +29,5 @@
     
     
     ```
+    
     
