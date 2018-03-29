@@ -1,5 +1,3 @@
-# 
-
 Apoe
 B2m
 C1qa
